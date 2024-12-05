@@ -1,3 +1,5 @@
+**Deprecated**: Not maintained anymore as I scripted it with bash.
+
 # Usage
 
 ```
